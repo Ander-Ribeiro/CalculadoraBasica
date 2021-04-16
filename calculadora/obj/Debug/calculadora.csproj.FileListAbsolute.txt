@@ -1,0 +1,18 @@
+C:\Users\Andrer\Desktop\C# curso\calculadora\calculadora\obj\Debug\calculadora.csprojAssemblyReference.cache
+C:\Users\Andrer\Desktop\C# curso\calculadora\calculadora\obj\Debug\calculadora.Form1.resources
+C:\Users\Andrer\Desktop\C# curso\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\Andrer\Desktop\C# curso\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.cache
+C:\Users\Andrer\Desktop\C# curso\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Andrer\Desktop\C# curso\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\Andrer\Desktop\C# curso\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Andrer\Desktop\C# curso\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Andrer\Desktop\C# curso\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\Andrer\Desktop\C# curso\calculadora\calculadora\obj\Debug\calculadora.pdb
+C:\Users\Andrer\Desktop\Faculdade 3 Semestre Anderson\Programação Orientada a Objetos\Atividades\Csharp-curso\calculadora\calculadora\bin\Debug\calculadora.exe.config
+C:\Users\Andrer\Desktop\Faculdade 3 Semestre Anderson\Programação Orientada a Objetos\Atividades\Csharp-curso\calculadora\calculadora\obj\Debug\calculadora.exe
+C:\Users\Andrer\Desktop\Faculdade 3 Semestre Anderson\Programação Orientada a Objetos\Atividades\Csharp-curso\calculadora\calculadora\obj\Debug\calculadora.pdb
+C:\Users\Andrer\Desktop\Faculdade 3 Semestre Anderson\Programação Orientada a Objetos\Atividades\Csharp-curso\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Andrer\Desktop\Faculdade 3 Semestre Anderson\Programação Orientada a Objetos\Atividades\Csharp-curso\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Andrer\Desktop\Faculdade 3 Semestre Anderson\Programação Orientada a Objetos\Atividades\Csharp-curso\calculadora\calculadora\obj\Debug\calculadora.Form1.resources
+C:\Users\Andrer\Desktop\Faculdade 3 Semestre Anderson\Programação Orientada a Objetos\Atividades\Csharp-curso\calculadora\calculadora\obj\Debug\calculadora.Properties.Resources.resources
+C:\Users\Andrer\Desktop\Faculdade 3 Semestre Anderson\Programação Orientada a Objetos\Atividades\Csharp-curso\calculadora\calculadora\obj\Debug\calculadora.csproj.GenerateResource.Cache
